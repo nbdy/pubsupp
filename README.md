@@ -3,7 +3,7 @@
 ## features
 - [X] ipc
 - [X] [thread safe](https://github.com/nbdy/pubsupp/blob/master/tests/threads.cpp)
-- [X] 
+- [X] small (127 sloc / 3.4KB header size / 15KB .so size / 8B .a size)
 
 ## example
 ```c++
